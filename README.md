@@ -21,6 +21,6 @@ Este proyecto es una aplicación de consola desarrollada en **Java** que simula 
 
 
 ## Contribuyentes
-* **Santiago Lopez Restrepo** - (Tu Rol o Email)
+* **Santiago Lopez Restrepo** - (santiago.lopezr@est.iudigital.edu.co )
 
 
