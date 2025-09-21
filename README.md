@@ -8,7 +8,7 @@ Este proyecto es una aplicación de consola desarrollada en **Java** que simula 
 1. **Clonar el repositorio:**
    `git clone https://github.com/sntr9/java-pilas--editor
 2. **Navegar al directorio del proyecto:**
-   `cd mi-proyecto-java-editor`
+   `cd java-pilas--editor`
 3. **Compilar los archivos Java:**
    `javac src/Pila.java src/AplicacionConsola.java`
 4. **Ejecutar la aplicación:**
