@@ -1,4 +1,3 @@
-<img width="840" height="614" alt="image" src="https://github.com/user-attachments/assets/b0067ff1-ddeb-4559-8dd3-2c0776dca397" />
 
 # Aplicación de Editor de Texto en Consola (Java)
 
@@ -27,6 +26,9 @@ Este proyecto es una aplicación de consola desarrollada en **Java** que simula 
 
 ## Contribuyentes
 * **Santiago Lopez Restrepo** - (santiago.lopezr@est.iudigital.edu.co )
+
+## DOCENTE
+* **Steven Zuluaga Cortes** 
 
 Se toma desición de avanzar en el proyecto de manera individualmente por falta de comunicación con los compañeros, me comprometo a mejorar el tema de comunicación en proximos trabajos
 
