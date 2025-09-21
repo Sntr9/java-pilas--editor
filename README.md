@@ -30,6 +30,3 @@ Este proyecto es una aplicación de consola desarrollada en **Java** que simula 
 ## DOCENTE
 * **Steven Zuluaga Cortes** 
 
-Se toma desición de avanzar en el proyecto de manera individualmente por falta de comunicación con los compañeros, me comprometo a mejorar el tema de comunicación en proximos trabajos
-
-
