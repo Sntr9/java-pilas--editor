@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 
 /**
- * Clase que implementa una pila genérica.
- * @param <T> Tipo de elementos que contendrá la pila.
+ * Clase de implementación una pila genérica.
+ * @param <T> Tipo de elementos que tendra la pila.
  */
 public class Pila<T> {
     private ArrayList<T> elementos;
@@ -59,4 +59,5 @@ public class Pila<T> {
     public String toString() {
         return elementos.toString();
     }
+
 }
