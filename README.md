@@ -7,7 +7,7 @@ Este proyecto es una aplicación de consola desarrollada en **Java** que simula 
 
 ## Instrucciones de Ejecución
 1. **Clonar el repositorio:**
-   `git clone https://github.com/sntr9/`
+   `git clone https://github.com/sntr9/java-pilas--editor
 2. **Navegar al directorio del proyecto:**
    `cd mi-proyecto-java-editor`
 3. **Compilar los archivos Java:**
